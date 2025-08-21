@@ -2,7 +2,7 @@ O projeto Java foi desenvolvido com base na modelagem do diagraama abaixo:
 
 ```mermaid
     classDiagram
-        direction BT
+        direction TB
 
         class ReprodutorMusical {
             <<interface>>
